@@ -1,0 +1,1 @@
+Primeiro exercício de Python exigido no processo seletivo do BNDES.
